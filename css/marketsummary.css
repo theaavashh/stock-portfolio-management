@@ -1,0 +1,155 @@
+
+input{
+      border:3px solid blue;
+      border-radius: 10px;
+      position: relative;
+      top:-730px;
+      left: 1200px;
+      height: 40px;
+      width: 250px;
+      outline: none;
+      text-align: center;
+     
+}
+.btns{
+      position: relative;
+      top:-725px;
+      left: 1155px;
+      border: none;
+      background-color:blue;
+      height: 40px;
+      width: 40px;
+      border-radius: 10px;
+      padding-top: 5px;
+
+  
+
+     
+}
+.fa-search{
+      
+      color:white;
+      position: relative;
+      left:2px;
+}
+
+
+#marketsummary_table{
+      position: relative;
+      top:-810px;
+      left:400px;
+}
+h1{
+   font-size: 40px;
+   position: relative;
+   top:160px;
+   left:-60px;
+ 
+  padding-bottom: 10px;
+  padding-left: 40px;
+   color: #91091e;
+   background-color: white;
+   width: 70vw;
+   height: 580px;
+   
+}
+
+table{
+      width: 1150px;
+      position: relative;
+      top:25px;
+      left:-60px;
+}
+ table tr #td_one{
+      font-size: 30px;
+      position: relative;
+      top:-400px;
+      left:55px;
+}
+table tr #td_two{
+      font-size: 30px;
+      position: relative;
+      top:-390px;
+      left:420px;
+}
+table tr #td_three{
+      font-size: 30px;
+      position: relative;
+      top:-400px;
+      left:50px;
+      display: inline;
+}
+table tr #td_four{
+      font-size: 30px;
+      position: relative;
+      top:-410px;
+      left:50px;
+}
+table tr #td_five{
+      font-size: 30px;
+      position: relative;
+      top:-420px;
+      left:50px;
+}
+table tr #td_six{
+      font-size: 30px;
+      position: relative;
+      top:-435px;
+      left:50px;
+}
+table tr #value_one{
+      font-size: 25px;
+      position: relative;
+      top:-435px;
+      left:140px;
+
+}
+table tr #value_two{
+      font-size: 25px;
+      position: relative;
+      top:-460px;
+      left:400px;
+      color:red;
+     
+
+}
+table tr #value_three{
+      font-size: 25px;
+      position: relative;
+      top:-435px;
+      left:800px;
+
+      color:#7b113a;
+     
+
+
+}
+table tr #value_four{
+      font-size: 25px;
+      position: relative;
+      top:-450px;
+      left:800px;
+      color:#7b113a;
+   
+    
+
+}
+table tr #value_five{
+      font-size: 25px;
+      position: relative;
+      top:-468px;
+      left:800px;
+      color:#7b113a;
+     
+      
+
+}
+table tr #value_six{
+      font-size: 25px;
+      position: relative;
+      top:-470px;
+      left:800px;
+      color:#7b113a;
+     
+
+}

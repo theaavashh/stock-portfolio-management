@@ -1,0 +1,94 @@
+
+#headers{
+      position: relative;
+      top:-700px;
+      left:350px;
+}
+fieldset{
+      height: 300px;
+      width: 1000px;
+      border: 2px solid black;
+}
+legend{
+      font-size: 40px;
+      margin-left:130px;
+}
+#sub-headers1{
+      height: 200px;
+      width: 400px;
+      background-color:white;
+      position: relative;
+      top:30px;
+      left:30px;
+      display: inline-block;
+      box-shadow: 21px 16px 19px 17px rgba(15,13,13,0.55);
+      
+}
+#sub-headers2{
+      height: 200px;
+      width: 400px;
+      background-color:white;
+      position: relative;
+      top:-170px;
+      left:500px;
+      box-shadow: 21px 16px 19px 17px rgba(15,13,13,0.55);
+      
+      
+}
+.fa-user-plus {
+      font-size: 70px;
+      position: relative;
+      top:20px;
+      left:40px;
+      color:black;
+}
+.fa-tasks{
+      font-size: 70px;
+      position: relative;
+      top:20px;
+      left:40px;
+      color:black;
+
+}
+.fa-user-plus:hover{
+      color:#c70039;
+}
+.fa-tasks:hover{
+      color:#c70039;
+}
+
+#subpart1{
+      position: relative;
+      top:90px;
+      left:-30px;
+      font-size: 40px;
+      text-decoration: none;
+      color:black;
+}
+#subpart1:hover{
+    
+      color:#c70039;
+}
+.fa-arrow-circle-right{
+      position: relative;
+      left:50px;
+      color:black;
+}
+.fa-arrow-circle-right:hover{
+      color:#c70039;
+
+}
+#subpart2{
+      position: relative;
+      top:90px;
+      left:-30px;
+      font-size: 40px;
+      text-decoration: none;
+      color:black;
+
+}
+#subpart2:hover{
+      color:#c70039;
+
+}
+

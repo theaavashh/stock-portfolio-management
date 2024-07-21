@@ -1,0 +1,86 @@
+body{
+    overflow:scroll;
+}
+form{
+    position: relative;
+    top:-600px;
+    left:600px;
+    background-color:white;
+    height: 480px;
+    width: 500px;
+    border-radius: 30px;
+    outline: black;
+}
+h2{
+    font-size: 40px;
+    color:black;
+    position: relative;
+    top:10px;
+    left:80px;
+}
+#changeid{
+    color:purple;
+    font-size: 30px;
+    text-align: center;
+}
+
+span{
+    color:green;
+    position: relative;
+    top:190px;
+    left:70px;
+    font-size: 30px;
+}
+label{
+    font-size: 30px;
+    color:black;
+    position: relative;
+    top:30px;
+}
+input{
+    margin:10px 30px;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-bottom: 4px solid black;
+    outline: none;
+    font-size: 30px;
+    color:black;
+    text-align: center;
+    position: relative;
+    top:50px;
+    left:60px;
+    padding-bottom: 20px;
+}
+.btn55{
+    position: relative;
+    top:100px;
+    left:150px;
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: black;
+    color:white;
+}
+#newerror{
+    font-size: 20px;
+    color:red;
+    position: relative;
+    top:50px;
+    left:130px;
+}
+#conerror{
+    font-size: 20px;
+    color:red;
+    position: relative;
+    top:50px;
+    left:150px;
+}
+#errormessage{
+    font-size: 20px;
+    color:red;
+    position: relative;
+    top:30px;
+    left:70px;
+
+}

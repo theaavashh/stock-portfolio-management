@@ -1,0 +1,21 @@
+body{
+      overflow: visible;
+  
+}
+#main{
+      position: relative;
+      top:-400px;
+      left:400px;
+      display:block;
+      max-width:100px;
+}
+ 
+#img_upload{
+      display:block;
+      position: relative;
+     margin-right: 10px;
+}
+img{
+      min-width: 50px;
+      max-width: 200px;
+}

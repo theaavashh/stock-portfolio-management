@@ -1,0 +1,96 @@
+
+input{
+      border:1px solid black;
+      border-radius: 5px;
+      position: relative;
+      top:-600px;
+      left: 1100px;
+      height: 40px;
+      width: 230px;
+      outline: none;
+      text-align: center;
+     
+}
+.btn22{
+      position: relative;
+      top:-598px;
+      left: 1055px;
+      border: none;
+      background-color:black;
+      height: 37px;
+      width: 40px;
+      border-radius: 10px;
+      padding-top: 5px;    
+}
+
+.fa-search{
+      
+      color:white;
+      position: relative;
+      left:2px;
+}
+#headers{
+      position: relative;
+      top:-640px;
+      left:500px;
+}
+h1{
+      font-size: 50px;
+      margin-left: -200px;
+      padding-left: 60px;
+      color:#91091e;
+      height: 50px;
+      width: 100vw;
+     
+
+}
+#upcomingadd{
+      display: inline;
+      position: relative;
+      top:-70px;
+      left:700px;
+      font-size: 30px;
+      text-decoration: none;
+      border-left: 3px solid #91091e;
+      border-right: 3px solid #91091e;
+      color:#91091e;
+
+}
+table{
+      width: 1180px;
+      position: relative;
+      top:-10px;
+      left:-190px;
+      border-top:2px solid black;
+      border-bottom:2px solid black;
+}
+
+table th{
+      /* background-color: seagreen; */
+      color:black;
+      font-size: 27px;
+      text-align: center;
+}
+table td{
+      font-size: 25px;
+      text-align: center;
+      padding-top: 5px;
+     
+}
+tr:nth-child(even) {
+      
+      background-color: white;
+     
+     
+    }
+.fa-edit{
+      color:red;
+      font-size: 20px;
+      padding-left: 20px;
+}
+.fa-trash-alt{
+      color:red;
+      font-size: 20px;
+
+}
+

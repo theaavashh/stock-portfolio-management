@@ -1,0 +1,37 @@
+
+#main-head{
+      position: relative;
+      top:-500px;
+      left:400px;
+}
+#part-one{
+      font-size: 40px;
+ position: relative;
+      left:400px;
+}
+.part-two{
+      background-color: white;
+      width: 100%;
+      display: inline;
+      font-size: 40px;
+      padding-right: 90px;
+      position: relative;
+      top:50px;
+      left:100px;
+      cursor: pointer;
+      text-decoration: none;
+}
+
+.subparttwo{
+      text-decoration: none;
+      color:black;
+}
+.subparttwo:hover{
+      color:red; 
+      border-bottom: 5px solid red;
+     
+    
+   
+   
+
+}

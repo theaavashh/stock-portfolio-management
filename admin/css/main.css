@@ -1,0 +1,83 @@
+body{
+      background-color: #dcdde1;
+      overflow: hidden;
+}
+
+
+#header{
+      height: 50px;
+      width: 100vw;
+      background-color:black;
+    
+}
+#sub-head{
+      color:white;
+      font-size: 30px;
+      height: 40px;
+      width: 300px;
+      background-color: cornflowerblue;
+      padding-top: 10px;
+      text-align: center;
+}
+header{
+      position: relative;
+      top:-40px;
+      left:1000px;
+      font-size: 30px;
+      z-index: 10px;
+      color:white;
+     
+}
+head{
+     font-size: 40px;
+      
+}
+button{
+      font-size: 20px;
+      position: relative;
+      top:-70px;
+      left:1300px;
+
+}
+aside{
+      position: relative;
+      top:-20px;
+      height: 100vh;
+      width: 300px;
+      background-color:white;
+      box-shadow: 25px 8px 5px 0px rgba(226,215,215,0.75);
+}
+ul li{
+      font-size: 30px;
+      list-style: none;
+      padding-top: 30px;
+      position: relative;
+      top:40px;
+}
+ul li a{
+      color:black;
+      text-decoration: none;     
+}
+i{
+      color:#4834d4;
+       position: relative;
+       left:-20px;
+}
+ul li a:hover{
+      color:red;
+}
+#changepassword{
+      position: relative;
+      top:70px;
+      left:40px; 
+      background-color: black;
+      color:white;
+      box-shadow: 3px 3px 3px 3px whitesmoke;
+      border-radius: 10px;
+    
+}
+#chgpassword{
+      list-style: none;
+      text-decoration: none;
+      color:white;
+}

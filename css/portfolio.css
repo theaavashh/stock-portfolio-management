@@ -1,0 +1,73 @@
+body{
+      overflow: hidden;
+     
+}
+#div1{
+      position: relative;
+      top:-600px;
+      left:600px;
+     
+
+}
+fieldset{
+      height: 300px;
+      width:1000px;
+      position: relative;
+      left:-200px;
+      font-size: 50px;
+
+}
+legend{
+      color:#474973;
+      font-family: 'Anton', sans-serif;
+      margin-left: 60px;
+
+}
+#port_one{
+      height: 200px;
+      width: 450px;
+      background-color:white;
+      display: inline-block;
+      box-shadow: 14px 10px 5px 0px rgba(0,0,0,0.75);
+      position: relative;
+      top:-50px;
+}
+ #port_anch1{
+      color:red;
+      position: relative;
+      top:80px;
+      left:-60px;
+      display: inline-block;
+      
+}
+#port_anch1:hover{
+      color:black;
+}
+
+.port_text{
+      color:black;
+}
+
+#port_two{
+      height: 200px;
+      width: 450px;
+      background-color:white;
+      display: inline-block;
+      box-shadow: 14px 10px 5px 0px rgba(0,0,0,0.75);
+      position: relative;
+      top:10px;
+      left:80px;
+}
+ #port_anch2{
+      color:red;
+      position: relative;
+      top:20px;
+      left:90px;
+      display: inline-block;
+ }
+ #port_anch2:hover{
+       color:black;
+ }
+
+
+

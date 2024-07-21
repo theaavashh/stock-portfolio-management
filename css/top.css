@@ -1,0 +1,152 @@
+
+.part-two{
+      background-color: white;
+      width: 100%;
+      display: inline;
+      font-size: 40px;
+      padding-right: 90px;
+      position: relative;
+      top:-630px;
+      left:500px;
+      cursor: pointer;
+      text-decoration: none;
+}
+
+.subparttwo{
+      text-decoration: none;
+      color:black;
+}
+.subparttwo:hover{
+      color:red; 
+      border-bottom: 5px solid red;
+     
+    
+   
+   
+
+}
+input{
+      border:1px solid black;
+      border-radius: 10px;
+      position: relative;
+      top:-620px;
+      left: 1200px;
+      height: 40px;
+      width: 250px;
+      outline: none;
+      text-align: center;
+     
+}
+.btn2{
+      position: relative;
+      top:-618px;
+      left: 1158px;
+      border: none;
+      background-color:black;
+      height: 37px;
+      width: 40px;
+      border-radius: 10px;
+      padding-top: 5px;
+
+  
+
+     
+}
+.fa-search{
+      
+      color:white;
+      position: relative;
+      left:2px;
+}
+#head{
+      position: relative;
+      top:-600px;
+      left:500px;
+}
+h1{ 
+      position: relative;
+      top:-35px;
+      left:-500px;
+      font-size: 40px;
+      padding-left: 395px;
+      color:#91091e;
+      height:50px;
+      width: 100vw;
+  
+
+}
+#date{
+      color:black;
+      font-size: 30px;
+      position:relative; 
+      top:-60px;
+      left:-100px;
+}
+#date-two{
+      position: relative;
+      left:10px;
+      color:green;
+      border-left: 3px solid black;
+      border-right: 3px solid black;
+}
+table{
+      width: 1000px;
+      position: relative;
+      top:-50px;
+      left:-70px;
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+      border-spacing: 0;
+    
+
+}
+
+table th{
+   
+      color:black;
+      font-size: 30px;
+      padding-bottom: 14px;
+    
+}
+
+
+table td{
+      font-size: 25px;
+      text-align: center;
+      padding-top: 5px;
+
+}
+table tr:nth-child(even){
+     background-color:#f6f5f5;
+    
+}
+
+
+.btn-anchor{
+      position: relative;
+      top:-100px;
+      left:700px;
+      background-color: white;
+      border: none;
+      border-left: 2px solid #91091e;
+      border-right: 2px solid #91091e;
+      font-size: 20px; 
+      color:#91091e;
+
+}
+
+.btn-anchor:hover{
+      color: #91091e;
+}
+.fa-edit{
+      color:red;
+      font-size: 20px;
+      padding-left: 20px;
+}
+.fa-trash-alt{
+      color:red;
+      font-size: 20px;
+
+}
+
+

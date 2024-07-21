@@ -1,0 +1,205 @@
+
+#heading{
+      position: relative;
+      top:-700px;
+      left:300px;
+}
+#topic{
+      height: 50px;
+      width: 100vw;
+     
+      
+}
+text{
+      color:   #91091e;
+      font-size: 50px;
+      padding-left: 350px;
+      font-family: 'Roboto', sans-serif;
+}
+hr{
+      width: 15%;
+      position: relative;
+      left:-300px;
+      border: none;
+      border-bottom: 3px solid #1687a7 ;
+    
+}
+#mains{
+      position: relative;
+      top:70px;
+      left:200px;
+}
+label{
+      font-size: 25px;
+}
+input{
+      margin-bottom: 10px;
+      border: none;
+      border-bottom: 3px solid black;
+    font-size: 15px;
+     background-color: #dcdde1;
+     outline: none;
+     position: relative;
+     top:10px;
+     left:50px;
+     width: 300px;
+     text-align: center;
+}
+select{
+            position: relative;
+            left:60px;
+            border: none;
+            border-bottom: 2px solid black; 
+            height: 30px;
+            width: 300px;
+            background-color: #d1d8e0;
+            outline: none;
+            font-size: 20px;
+            text-align: center;
+     /* }
+     #stocktype:hover{
+           border-bottom: 2px solid red;
+     } */
+     
+}
+
+#cname{
+      position: relative;
+      top:-80px;
+      left:400px;
+}
+#issmanager{
+      position: relative;
+      top:-60px;
+
+}
+#sharetype{
+      position: relative;
+      top:-140px;
+      left:400px;
+
+}
+#price{
+      position: relative;
+      top:-120px;
+
+}
+#units{
+      position: relative;
+      top:-200px;
+      left:400px;
+
+
+}
+#issdate{
+      position: relative;
+      top:-180px;
+
+}
+#closdate{
+      position: relative;
+      top:-260px;
+      left:400px;
+
+}
+.btn{
+      position: relative;
+      top:-220px;
+      left:300px;
+      height: 30px;
+      width: 200px;
+      background-color: #91091e;
+      color:white;
+      border-radius: 40px;
+}
+.btn1{
+      position: relative;
+      top:30px;
+      left:120px;
+      height: 30px;
+      border: none;
+      background-color: white;
+      border-left: 2px solid #91091e;
+      border-right: 2px solid #91091e;
+
+}
+.btn1:hover{
+      color: #91091e;
+}
+
+#symbol_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:50px;
+}
+#com_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+#iss_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+#sharetype_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+#price_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+#units_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+#issue_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+#close_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 80px;
+      display: inline-block;
+      position: relative;
+      top:-60px;
+      left:90px;
+}
+
+
+
+

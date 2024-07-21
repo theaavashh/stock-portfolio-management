@@ -1,0 +1,109 @@
+body{
+      position: relative;
+      background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(163,175,243,1) 0%, rgba(220,182,232,1) 100.2% );
+      
+  }
+  embed{
+      height: 100px;
+      position: relative;
+      top:-150px;
+      left: 40px;
+  }
+  form{
+      position: relative;
+      top: 160px;
+      left: 500px;
+      height:400px;
+      width: 500px;
+      background: whitesmoke;
+  }
+  h1{
+      background:#8f4068;
+      color:white;
+      padding-top: 25px;
+      padding-left:170px;
+      padding-bottom: 10px;
+      font-family: 'Lobster', cursive;
+  
+  }
+  a{
+      color:red;
+      position: relative;
+      top:200px;
+  }
+  input{
+      position: relative;
+      top: -40px;
+      left: 60px;
+     margin-top: 40px;
+     width: 300px;
+     height: 40px;
+     text-align: center;
+     font-size: 20px;
+     border-radius: 10px;
+     border: 2px solid #4a1c40;
+     outline: none;
+  
+  }
+  input[type=text]{
+      position: absolute;
+      left:60px;
+      top: 80px;
+  }
+  input[type=password]{
+      position: absolute;
+      left:60px;
+      top: 160px;
+  }
+  input:focus{
+      border-color: 2px solid red;
+  }
+   form #lock{
+      height: 30px;
+      position: absolute;
+      top:210px;
+      left: 70px;
+      z-index: 5;
+  }
+  .btn_login{
+      background-color: #5e8b7e;
+      /* background: #62959c;background-image: linear-gradient( 109.6deg,  rgba(102,203,149,1) 11.2%, rgba(39,210,175,1) 98.7% ); */
+      color: cornsilk;
+      position:absolute;
+      left:100px;
+      top:220px;
+      height: 40px;
+      width: 250px;
+      font-size: 20px;
+      border-radius: 10px;
+      margin-left: 20px;
+      margin-top: 80px;
+      box-shadow: 5px 5px steelblue;
+      
+  }
+   #mail_error{
+      font-size: 20px;
+      color:red;
+      margin-left: 30px;
+      position: relative;
+      top:-10px;
+  }
+  #pass_error{
+      font-size: 20px;
+      color:red;
+      margin-left:0px;
+      position:relative;
+      top:50px;
+      left:120px;
+      display:block;
+  
+  }
+  #wrong_pass{
+      z-index: 60;
+      font-size: 20px;
+      color:red;
+      position: relative;
+      top:300px;
+      left:600px;
+  }
+  

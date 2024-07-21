@@ -1,0 +1,93 @@
+
+
+#dashboard{
+      height: 500px;
+      width: 1000px;
+      position: relative;
+      top:-750px;
+      left:400px;
+       
+}
+h1{
+      font-size: 70px;
+      font-family: 'Times New Roman', Times, serif;
+      /* font-family: 'Roboto', sans-serif; */
+      color:#91091e;
+    
+}
+#dash1{
+      height: 250px;
+      width: 450px;
+      position: relative;
+      top:-50px;
+     left:60px;
+     background-color:#2f5d62;
+     display: inline-block;
+     border-radius: 10px;
+}
+#subdash{
+      position: relative;
+      top:60px;
+}
+#subdashs{
+      display: inline-block;
+}
+
+h2{
+      display: inline;
+      font-size: 55px;
+      font-family: 'Times New Roman', Times, serif;
+      color:#e6e6e6;
+      position: relative;
+      top:120px;
+      left:100px;
+    
+}
+h2:hover{
+      color:black;
+      cursor:pointer;
+}
+span{
+     position: relative;
+     left:200px;
+     top:-10px;
+
+}
+#textform{
+      position: relative;
+      top:100px;
+      left:50px;
+      font-size: 55px;
+}
+#dash2{
+      height: 250px;
+      width: 450px;
+      position: relative;
+      top:15px;
+     left:140px;
+     background-color:#810000;
+     border-radius: 10px;
+     display: inline-block;
+}
+#flaticon1{
+      font-size: 90px;
+      color:#e6e6e6;
+      position: relative;
+      top:10px;
+      left:50px;   
+}
+#flaticon2{
+      font-size: 90px;
+      color:#e6e6e6;
+      position: relative;
+      top:10px;
+      left:50px; 
+
+}
+ #user_num{
+      font-size: 90px;
+      color:white;
+      display: inline;
+      position: relative;
+      left:200px;
+}

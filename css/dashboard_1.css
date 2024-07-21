@@ -1,0 +1,85 @@
+body{
+      overflow:hidden;
+     
+}
+#div1{
+      position: relative;
+      top:-600px;
+      left:600px;
+     
+
+}
+h1{
+      position: relative;
+      top:-100px;
+      left:-200px;
+      font-size: 70px;
+      font-family: 'Noto Serif JP', serif;
+      color:#474973;
+}
+#dashpart_one{
+      height: 200px;
+      width: 300px;
+      background-color:#264653;
+      display: inline-block;
+      box-shadow: 14px 10px 5px 0px rgba(0,0,0,0.75);
+      position: fixed;
+      top:230px;
+      left:390px;
+}
+#dash_innertext{
+      color:white;
+      position: relative;
+      top:40px;
+      left:100px;
+      font-size: 60px;
+}
+#dashpart_two{
+      height: 200px;
+      width: 300px;
+      background-color:#38040e;
+      position: fixed;
+      left:750px;
+      top:230px;
+      box-shadow: 14px 10px 5px 0px rgba(0,0,0,0.75);
+      display: inline-block;
+}
+#dash_innertext2{
+      color:white;
+      position: relative;
+      top:40px;
+      left:30px;
+      font-size: 60px;
+}
+#dashpart_three{
+      height: 200px;
+      width: 300px;
+      background-color:#2b2d42;
+      position:fixed;
+      left:1100px;
+      top:230px;
+      box-shadow: 14px 10px 5px 0px rgba(0,0,0,0.75);
+}
+#dash_innertext3{
+      color:white;
+      position: relative;
+      top:40px;
+      left:100px;
+      font-size: 60px;
+}
+.dash_text{
+      color:white;
+}
+#red{
+      position: relative;
+      top:-3000px;
+     
+      background-color: red;
+
+}
+#myChart{
+      position: relative;
+      top:-500px;
+      left:200px;
+
+}

@@ -1,0 +1,75 @@
+body{
+      overflow: visible;
+}
+#mains{
+      position: relative;
+      top:-600px;
+      left:400px;
+
+}
+#text-about{
+      color:black;
+}
+#text-subabout{
+      color:red;
+      position: relative;
+      top:50px;
+      left:-70px;
+}
+#second-main{
+      height: 300px;
+      width: 70%;
+      background-color: white;
+      position: relative;
+      top:80px;
+      left:-50px;
+}
+#button_ho{
+      height: 50px;
+      border:none;
+      background-color:white;
+      border-top: 3px solid red;
+      font-size: 20px;
+      position: relative;
+      top:-70px;
+}
+#display_picture{
+      position: relative;
+      top:60px;
+      left:-100px;
+}
+h3{
+      position: relative;
+      top:40px;
+      left:30px;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 20px;
+}
+
+#lbl-one{
+      position: relative;
+      top:-100px;
+      left:250px;
+      font-size: 25px;
+}
+#lbl-two{
+      position: relative;
+      top:-100px;
+      left:250px;
+      font-size: 25px;
+
+}
+#lbl-three{
+      position: relative;
+      top:-100px;
+      left:250px;
+      font-size: 25px;
+
+}
+#lbl-four{
+      position: relative;
+      top:-100px;
+      left:250px;
+      font-size: 25px;
+
+}

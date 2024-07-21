@@ -1,0 +1,98 @@
+
+input{
+      border:2px solid black;
+      border-radius: 10px;
+      position: relative;
+      top:-730px;
+      left: 1200px;
+      height: 40px;
+      width: 250px;
+      outline: none;
+      text-align: center;
+     
+}
+.btn{
+      position: relative;
+      top:-725px;
+      left: 1155px;
+      border: none;
+      background-color:blue;
+      height: 40px;
+      width: 40px;
+      border-radius: 10px;
+      padding-top: 5px;
+
+  
+
+     
+}
+.fa-search{
+      
+      color:white;
+      position: relative;
+      left:2px;
+}
+
+
+#marketsummary_table{
+      position: relative;
+      top:-810px;
+      left:400px;
+}
+h1{
+   font-size: 50px;
+   position: relative;
+   top:60px;
+   left:-100px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+   color: #91091e;
+  
+   width: 100vw;
+   height: 40px;
+   
+}
+
+table{
+      width: 1150px;
+      position: relative;
+      top:25px;
+      left:-60px;
+}
+table th{
+      background-color: seagreen;
+      color:white;
+      font-size: 30px;
+}
+table td{
+      font-size: 25px;
+      text-align: center;
+      padding-top: 5px;
+}
+tr:nth-child(even) {
+      background-color:white;
+    }
+.fa-edit{
+      position: relative;
+      left:3px;
+      color:red;
+}
+.fa-trash-alt{
+      position: relative;
+      left:7px;
+      color: red;
+
+}
+#marketadd{
+      display: inline;
+      position: relative;
+      top:-10px;
+      left:800px;
+      font-size: 30px;
+      text-decoration: none;
+      color:#91091e;
+      background-color: white;
+
+}
+
+

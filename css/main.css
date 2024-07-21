@@ -1,0 +1,232 @@
+body{
+      background-color: #d1d8e0;
+      overflow: visible;
+   
+  
+
+}
+
+
+
+header{
+      height: 70px;
+      width: 100vw;
+      background-color:white;
+      box-shadow: 1px 12px 0px 0px rgba(0,0,0,0.50);
+      position:fixed;
+}
+#head1{
+      height: 70px;
+      width: 220px;
+      background-color: #3867d6;
+}
+text{
+      font-size: 30px;
+      color: white;
+      position: relative;
+      top:10px;
+      left:20px;
+}
+.btn1{
+      position: relative;
+      top:-40px;
+      left:1300px;
+      background-color:black;
+      color:white;
+      height: 40px;
+      font-size: 20px;
+      border-radius: 5px;
+   
+}
+#logo{
+      height: 30px;
+      position: relative;
+      top:15px;
+      left:700px;
+}
+article{
+      font-size: 20px;
+      color:#003566;
+      position: relative;
+      left:900px;
+      top:-10px;
+}
+#article1{
+      position: relative;
+      top:0px;
+      left:10px;
+}
+#logout{
+      color:white;
+      padding-right: 10px;
+      position: relative;
+}
+
+aside{
+      height: 100vh;
+      width: 300px;
+      background-color:white;
+     
+}
+embed{
+      height: 100px;
+      position: relative;
+      top:90px;
+      left:60px;
+}
+figcaption{
+      font-size: 30px;
+      position: relative;
+      top:90px;
+      left: 50px;
+      color:black;
+}
+
+#naviagtion{
+      font-size: 30px;
+      position: relative;
+      top:110px;
+   
+}
+  li{
+      list-style:none;
+      text-decoration: none;
+      color: black;
+      margin-bottom: 3px;
+}
+a{
+      text-decoration: none;
+}
+ li:hover{
+      color:red;
+
+}
+ .fa-history{
+      color:purple;
+      position: relative;
+      top:-15px;
+      left:-8px;
+
+}
+.fa-history:hover{
+      color:red;
+}
+#dash{
+      position: relative;
+      top:-50px;
+      left:50px;
+}
+#dash:hover{
+      color:red;
+
+}
+#binocular{
+            position: relative;
+            top:-35px;
+            left:-8px;
+            color:purple;
+}
+#binocular:hover{
+      color:red;
+}
+
+#wallet{
+      position: relative;
+      top:-60px;
+      left:-8px;
+      color:purple;
+
+}
+#wallet:hover{
+      color:red;
+}
+.fa-chess-rook{
+      position: relative;
+      top:-70px;
+      left:-8px;
+      color:purple;
+
+}
+.fa-chess-rook:hover{
+      color:red;
+}
+.fa-video{
+      position: relative;
+      top:-105px;
+      left:-8px;
+      color:purple;
+
+}
+.fa-video:hover{
+      color:red;
+}
+.fa-hands-helping{
+      position: relative;
+      top:-85px;
+      left:-8px;
+      color:purple;
+}
+.fa-hands-helping:hover{
+      color:red;
+}
+#port{
+      position: relative;
+      top:-65px;
+      left:55px;
+
+}
+#profit{
+      position: relative;
+      top:-80px;
+      left:55px;
+
+
+}
+#upcoming{
+      position: relative;
+      top:-85px;
+      left:55px;
+
+}
+#top{
+      position: relative;
+      top:-105px;
+      left:55px;
+
+}
+#video{
+      position: relative;
+      top:-140px;
+      left:55px;
+}
+#helpdesk{
+      position: relative;
+      top:-125px;
+      left:50px;
+}
+#password{
+      color:black;
+      padding-right: 15px;
+     
+}
+#aboutme{
+      position: relative;
+      top:-140px;
+      left:40px;
+}
+.fa-user{
+      position: relative;
+      top:-110px;
+      left:-13px;
+      color:purple;
+}
+.btn{
+      font-size: 20px;
+      background-color:#3867d6;
+      color:white;
+      position: relative;
+      top:-120px;
+      border-radius: 5px;
+     
+}
+

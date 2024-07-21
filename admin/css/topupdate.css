@@ -1,0 +1,9 @@
+#headers{
+      height: 50px;
+      width: 100vw;
+      position: relative;
+      top: 10px;
+      left:-100px;
+      padding-left: 380px;
+      font-size: 40px;
+}
